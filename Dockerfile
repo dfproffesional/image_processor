@@ -8,9 +8,11 @@ LABEL maintainer="dfproffesional@gmail.com"
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     debhelper \
+    fakeroot \
     dh-python \
     python3-all \
-    python3-pip \
+    python3-pip  \
+    python3-stdeb \
     python3-setuptools \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
