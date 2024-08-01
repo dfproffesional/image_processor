@@ -1,0 +1,12 @@
+Source: imagecv2-processor
+Section: python
+Priority: optional
+Maintainer: Daniel <dfproffesional@gmail.com>
+Build-Depends: debhelper (>= 9), dh-python, python3-all, python3-setuptools
+Standards-Version: 3.9.6
+X-Python3-Version: >= 3.4
+
+Package: imagecv2-processor
+Architecture: all
+# Depends: ${python3:Depends}, ${misc:Depends}
+Description: N/A
