@@ -8,5 +8,4 @@ X-Python3-Version: >= 3.4
 
 Package: imagecv2-processor
 Architecture: all
-# Depends: ${python3:Depends}, ${misc:Depends}
 Description: N/A
