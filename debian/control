@@ -7,5 +7,6 @@ Standards-Version: 3.9.6
 X-Python3-Version: >= 3.4
 
 Package: imagecv2-processor
+Depends: ${misc:Depends}, ${python3:Depends}, python3-pip
 Architecture: all
 Description: N/A
