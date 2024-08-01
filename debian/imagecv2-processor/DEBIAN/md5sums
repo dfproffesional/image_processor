@@ -1,0 +1,9 @@
+78b016ff866af2567def099fcd3f49d3  usr/bin/imagecv2-processor
+09bb3a1cc0edacd1cbad855b8f3178d3  usr/lib/python3/dist-packages/imagecv2_processor-1.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/imagecv2_processor-1.0.egg-info/dependency_links.txt
+f9e38969ab3a30016d08c76374dd6566  usr/lib/python3/dist-packages/imagecv2_processor-1.0.egg-info/entry_points.txt
+6a39d480f70c644b46ba1ca08a72f164  usr/lib/python3/dist-packages/imagecv2_processor-1.0.egg-info/requires.txt
+a1e36f284c2b45d6deae405680174e05  usr/lib/python3/dist-packages/imagecv2_processor-1.0.egg-info/top_level.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/project/__init__.py
+3eb0f29199ed41a0410588290691c48b  usr/lib/python3/dist-packages/project/cli.py
+8e4f7618e2f7ba3306dbd86f3385fdac  usr/share/doc/imagecv2-processor/changelog.Debian.gz

@@ -1,0 +1,8 @@
+Package: imagecv2-processor
+Version: 1.0-1
+Architecture: all
+Maintainer: Daniel <dfproffesional@gmail.com>
+Installed-Size: 24
+Section: python
+Priority: optional
+Description: N/A
