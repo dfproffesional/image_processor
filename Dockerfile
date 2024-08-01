@@ -17,14 +17,5 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy application files to the container
-COPY . /compile
-
-# Set the working directory
-WORKDIR /compile
-
-# Build the Debian package
-RUN pip3 install .
-
 # Set the default command
 CMD ["bash"]
