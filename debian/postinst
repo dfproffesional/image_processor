@@ -1,7 +1,0 @@
-#!/bin/bash
-set -e
-
-# Instalar dependencias de PyPI
-pip3 install -r /usr/share/imagecv2-processor/requirements.txt
-
-exit 0
